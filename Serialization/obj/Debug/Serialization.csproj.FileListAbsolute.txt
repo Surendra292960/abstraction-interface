@@ -1,0 +1,10 @@
+G:\C#.NetPrograms\Serialization\Serialization\bin\Debug\Serialization.exe.config
+G:\C#.NetPrograms\Serialization\Serialization\bin\Debug\Serialization.exe
+G:\C#.NetPrograms\Serialization\Serialization\bin\Debug\Serialization.pdb
+G:\C#.NetPrograms\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+G:\C#.NetPrograms\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\Serialization\Serialization\obj\Debug\Serialization.exe
+G:\C#.NetPrograms\Serialization\Serialization\obj\Debug\Serialization.pdb
+G:\C#.NetPrograms\Serialization\Serialization\bin\Debug\Newtonsoft.Json.dll
+G:\C#.NetPrograms\Serialization\Serialization\bin\Debug\Newtonsoft.Json.xml
+G:\C#.NetPrograms\Serialization\Serialization\obj\Debug\Serialization.csproj.CopyComplete
